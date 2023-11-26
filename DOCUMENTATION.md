@@ -17,7 +17,9 @@ No modules.
 
 | Name | Type |
 |------|------|
+| [grafana_dashboard.oac_dashboard](https://registry.terraform.io/providers/grafana/grafana/latest/docs/resources/dashboard) | resource |
 | [grafana_data_source.prometheus](https://registry.terraform.io/providers/grafana/grafana/latest/docs/resources/data_source) | resource |
+| [grafana_folder.oac_folder](https://registry.terraform.io/providers/grafana/grafana/latest/docs/resources/folder) | resource |
 | [grafana_organization.my_org](https://registry.terraform.io/providers/grafana/grafana/latest/docs/resources/organization) | resource |
 
 ## Inputs

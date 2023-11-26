@@ -68,5 +68,4 @@ terraform apply --target grafana_folder.oac_folder
 terraform apply --target grafana_dashboard.oac_dashboard
 ```
 
-- Add to grafana new Alert
 - Documentation ./DOCUMENTATION.md
